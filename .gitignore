@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.nuget/
+.vs/
+.vscode/
+.DS_Store
+/learn/
+/workdoc/

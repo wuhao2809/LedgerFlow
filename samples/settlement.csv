@@ -1,0 +1,3 @@
+external_reference,amount_minor,currency,status
+demo-payment-1,10000,USD,settled
+external-only,500,USD,settled

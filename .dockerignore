@@ -1,0 +1,5 @@
+**/bin
+**/obj
+.nuget
+.git
+.DS_Store

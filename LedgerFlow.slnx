@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LedgerFlow.Api/LedgerFlow.Api.csproj" />
+    <Project Path="src/LedgerFlow.Application/LedgerFlow.Application.csproj" />
+    <Project Path="src/LedgerFlow.Domain/LedgerFlow.Domain.csproj" />
+    <Project Path="src/LedgerFlow.Infrastructure/LedgerFlow.Infrastructure.csproj" />
+    <Project Path="src/LedgerFlow.Worker/LedgerFlow.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LedgerFlow.IntegrationTests/LedgerFlow.IntegrationTests.csproj" />
+    <Project Path="tests/LedgerFlow.UnitTests/LedgerFlow.UnitTests.csproj" />
+  </Folder>
+</Solution>
